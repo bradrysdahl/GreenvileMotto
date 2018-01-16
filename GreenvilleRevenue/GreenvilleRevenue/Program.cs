@@ -1,4 +1,11 @@
-﻿using System;
+//Program written by: Brad Rysdahl
+//Program date: 1/16/18
+//Program description: This program gets input from the user for number
+//of people entered into a competition this year and last year. It then
+//calculates the total revenue generated from this year's competition and
+//tells the user whether this year's attendance is higher than last year's.
+
+using System;
 using static System.Console;
 class GreenvilleRevenue
 {
