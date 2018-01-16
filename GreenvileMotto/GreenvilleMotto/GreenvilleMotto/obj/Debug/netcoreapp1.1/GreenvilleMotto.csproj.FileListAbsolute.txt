@@ -1,0 +1,9 @@
+C:\Users\Riz\Source\Repos\GreenvileMotto\GreenvilleMotto\GreenvilleMotto\bin\Debug\netcoreapp1.1\GreenvilleMotto.deps.json
+C:\Users\Riz\Source\Repos\GreenvileMotto\GreenvilleMotto\GreenvilleMotto\bin\Debug\netcoreapp1.1\GreenvilleMotto.runtimeconfig.json
+C:\Users\Riz\Source\Repos\GreenvileMotto\GreenvilleMotto\GreenvilleMotto\bin\Debug\netcoreapp1.1\GreenvilleMotto.runtimeconfig.dev.json
+C:\Users\Riz\Source\Repos\GreenvileMotto\GreenvilleMotto\GreenvilleMotto\bin\Debug\netcoreapp1.1\GreenvilleMotto.dll
+C:\Users\Riz\Source\Repos\GreenvileMotto\GreenvilleMotto\GreenvilleMotto\bin\Debug\netcoreapp1.1\GreenvilleMotto.pdb
+C:\Users\Riz\Source\Repos\GreenvileMotto\GreenvilleMotto\GreenvilleMotto\obj\Debug\netcoreapp1.1\GreenvilleMotto.csprojResolveAssemblyReference.cache
+C:\Users\Riz\Source\Repos\GreenvileMotto\GreenvilleMotto\GreenvilleMotto\obj\Debug\netcoreapp1.1\GreenvilleMotto.AssemblyInfo.cs
+C:\Users\Riz\Source\Repos\GreenvileMotto\GreenvilleMotto\GreenvilleMotto\obj\Debug\netcoreapp1.1\GreenvilleMotto.dll
+C:\Users\Riz\Source\Repos\GreenvileMotto\GreenvilleMotto\GreenvilleMotto\obj\Debug\netcoreapp1.1\GreenvilleMotto.pdb

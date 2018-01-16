@@ -1,0 +1,9 @@
+C:\Users\Riz\Source\Repos\github\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp1.1\GreenvilleRevenue.deps.json
+C:\Users\Riz\Source\Repos\github\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp1.1\GreenvilleRevenue.runtimeconfig.json
+C:\Users\Riz\Source\Repos\github\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp1.1\GreenvilleRevenue.runtimeconfig.dev.json
+C:\Users\Riz\Source\Repos\github\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp1.1\GreenvilleRevenue.dll
+C:\Users\Riz\Source\Repos\github\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp1.1\GreenvilleRevenue.pdb
+C:\Users\Riz\Source\Repos\github\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp1.1\GreenvilleRevenue.csprojResolveAssemblyReference.cache
+C:\Users\Riz\Source\Repos\github\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp1.1\GreenvilleRevenue.AssemblyInfo.cs
+C:\Users\Riz\Source\Repos\github\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp1.1\GreenvilleRevenue.dll
+C:\Users\Riz\Source\Repos\github\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp1.1\GreenvilleRevenue.pdb
