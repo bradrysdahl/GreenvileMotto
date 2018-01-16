@@ -1,4 +1,8 @@
-﻿using static System.Console;
+//Program written by: Brad Rysdahl
+//Program date: 1/16/18
+//Program description: This program displays the Greenville Motto
+
+using static System.Console;
 namespace GreenvilleMotto
 {
     class Program
